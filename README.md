@@ -22,6 +22,9 @@ syntax-- array() function is used to create an array.
 <br>
 \*\* print_r() used for printing array.
 <br>
+  echo "<pre>";
+print_r($arr);
+echo "</pre>";
 echo "<pre>";
 print_r($arr);
 echo "</pre>";
