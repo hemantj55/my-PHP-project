@@ -28,3 +28,6 @@ print_r($arr);
 echo "</pre>";
   <br>
   <pre></pre>  used for printing array in modifie form that means each index printed in new line.
+<br>
+we can create chain of array inside an array in php language.
+<br>
