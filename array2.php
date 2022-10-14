@@ -7,15 +7,18 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- associate array -->
     <?php
-   $arr=array("car1","car2","car3");
-   
-   $arr[3]="car4";
-   $arr[5]="car4";
-   echo "<pre>";
-   print_r($arr);
-   echo "</pre>";
- 
+$arr2=array(
+    'name'=>'hemant kumar',
+    'age'=>21,
+    'status'=>true,
+);
+
+$arr2['education']="BCA";
+echo "<pre>";
+print_r($arr2);
+echo "</pre>";
     ?>
 </body>
 </html>
