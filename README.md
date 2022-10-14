@@ -27,4 +27,4 @@ echo "<pre>";
 print_r($arr);
 echo "</pre>";
   <br>
-used for printing array in modifie form that means each index printed in new line.
+  <pre></pre>  used for printing array in modifie form that means each index printed in new line.
