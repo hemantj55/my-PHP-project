@@ -14,7 +14,8 @@ $car=array(
     "g"=>"safari",
     "h"=>"suv"
 );
-echo count($car);
+
+echo count($car); 
 echo "<br>";
 echo "<pre>";
 print_r(array_count_values($car));
